@@ -1,4 +1,4 @@
-const NGROK_URL = "https://unwatched-landless-squall.ngrok-free.dev/api"; // Replace with your active ngrok URL
+const NGROK_URL = "https://zfsdfsdfl.ngrok-free.dev/api"; // Replace with your active ngrok URL
 
 document.getElementById('loginForm').addEventListener('submit', async (e) => {
     e.preventDefault();
